@@ -5,6 +5,8 @@
 | 0         | Setting Up Python Environment    | Setting up a Python environment using Anaconda and performing tasks with Pandas, Numpy, Scikit-Learn, Git, Matplotlib, and Seaborn.           | Python     | Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Git            |
 | 1         | Vertebral Column Data Set        | Binary classification task on vertebral column data using K-Nearest Neighbors (KNN) with different distance metrics and weighted voting.      | Python     | Scikit-learn, Matplotlib      |
 | 2         | Combined Cycle Power Plant Data  | Linear regression and KNN regression on Combined Cycle Power Plant data, including analysis of nonlinear associations and interaction terms.   | Python     | Scikit-learn, Matplotlib      |
+| 3        | Time Series Feature Extraction  | Feature extraction from time series data collected by a Wireless Sensor Network to classify human activities.   | Python    | Pandas, Numpy                  |
+| 4        | Binary and Multiclass Classification | Binary classification using logistic regression and multiclass classification with L1-penalized logistic regression and Naive Bayes. | Python    | Scikit-learn, Matplotlib       |
 
 ## Homework 0: Setting Up Python Environment
 
