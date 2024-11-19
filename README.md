@@ -1,21 +1,12 @@
 DSCI-552: Machine Learning
 
-| Homework  | Name                            | Description                                                                                                                                  | Languages  | Libraries                    |
-|-----------|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------|
-| 0         | Setting Up Python Environment    | Setting up a Python environment using Anaconda and performing tasks with Pandas, Numpy, Scikit-Learn, Git, Matplotlib, and Seaborn.           | Python     | Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Git            |
-| 1         | Vertebral Column Data Set        | Binary classification task on vertebral column data using K-Nearest Neighbors (KNN) with different distance metrics and weighted voting.      | Python     | Scikit-learn, Matplotlib      |
-| 2         | Combined Cycle Power Plant Data  | Linear regression and KNN regression on Combined Cycle Power Plant data, including analysis of nonlinear associations and interaction terms.   | Python     | Scikit-learn, Matplotlib      |
-| 3        | Time Series Feature Extraction  | Feature extraction from time series data collected by a Wireless Sensor Network to classify human activities.   | Python    | Pandas, Numpy                  |
-| 4        | Binary and Multiclass Classification | Binary classification using logistic regression and multiclass classification with L1-penalized logistic regression and Naive Bayes. | Python    | Scikit-learn, Matplotlib       |
-
-## Homework 0: Setting Up Python Environment
-
-This homework involves setting up the Python environment and familiarizing with common libraries like Pandas, Numpy, and Scikit-Learn. It also introduces Git for version control and Matplotlib/Seaborn for data visualization.
-
-## Homework 1: Vertebral Column Data Set
-
-The focus is on binary classification of vertebral column data using K-Nearest Neighbors (KNN). We explore various distance metrics such as Euclidean, Manhattan, Minkowski, and Mahalanobis. We also apply weighted voting for KNN and analyze error rates.
-
-## Homework 2: Combined Cycle Power Plant Data
-
-In this assignment, we use linear regression and KNN regression on the Combined Cycle Power Plant dataset. We explore pairwise relationships between variables, fit multiple regression models, and test for nonlinear associations and interactions.
+| Homework  | Name                                   | Description                                                                                              | Languages  | Libraries                             |
+|-----------|----------------------------------------|----------------------------------------------------------------------------------------------------------|------------|---------------------------------------|
+| 0         | Setting Up Python Environment          | Setting up a Python environment using Anaconda and performing tasks with Pandas, Numpy, Scikit-Learn, Git, Matplotlib, and Seaborn. | Python     | Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Git |
+| 1         | Vertebral Column Data Set              | Binary classification task on vertebral column data using K-Nearest Neighbors (KNN) with different distance metrics and weighted voting. | Python     | Scikit-learn, Matplotlib              |
+| 2         | Combined Cycle Power Plant Data        | Linear regression and KNN regression on Combined Cycle Power Plant data, including analysis of nonlinear associations and interaction terms. | Python     | Scikit-learn, Matplotlib              |
+| 3         | Time Series Feature Extraction         | Feature extraction from time series data collected by a Wireless Sensor Network to classify human activities. | Python     | Pandas, Numpy                         |
+| 4         | Binary and Multiclass Classification   | Binary classification using logistic regression and multiclass classification with L1-penalized logistic regression and Naive Bayes. | Python     | Scikit-learn, Matplotlib              |
+| 5         | PCA and Logistic Regression            | Performing Principal Component Analysis (PCA) to reduce feature dimensions and applying logistic regression to analyze datasets. | Python     | Scikit-learn, Numpy                   |
+| 6         | Tree-Based Methods and SMOTE          | Using random forests, XGBoost, and SMOTE on an imbalanced APS failure dataset for classification tasks with evaluation metrics such as ROC and AUC. | Python     | Scikit-learn, Pandas, Numpy           |
+| 7         | Multi-label Classification and Clustering | Applying Support Vector Machines (SVMs) with Gaussian kernels and L1 penalties for multi-label classification and conducting k-means clustering. | Python     | Scikit-learn, Pandas, Numpy, SMOTE    |
